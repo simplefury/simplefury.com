@@ -1,0 +1,59 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: Software Architect/Developer
+# your company information
+company:
+  name: Comcast Cable
+  url: "https://www.xfinity.com/stream/"
+
+# your resume. this file path should be relative to you "static" directory
+resume: "files/resume.pdf"
+
+# a summary about you
+summary: "I am a passionate software architect and developer with over 20 years of working experience. I've spent the last 10 years architecting and developing soluitions to support IP Video delivery at Comcast. Additionally, during that same time I've built my own company that serves Family Law Firms in Colorado by providing Sworn Financial Statement software."
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "jay@simplefury.com"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://www.github.com/jragingfury"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/jasonaburgess/"
+
+# your soft skills
+# give the percentage between 50 to 100 with 5 intervals.
+# currently supported colors: blue, yellow, pink, green, sky, orange
+softSkills:
+- name: Leadership
+  percentage: 90
+  color: blue
+- name: Team Work
+  percentage: 90
+  color: yellow
+- name: Communication
+  percentage: 90
+  color: pink
+- name: Hard Working
+  percentage: 90
+  color: green
+- name: Fast Learner
+  percentage: 90
+  color: sky
+- name: Problem Solving
+  percentage: 90
+  color: orange

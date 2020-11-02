@@ -1,0 +1,41 @@
+# section information
+section:
+  name: Projects
+  id: projects
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+
+# your projects
+projects:
+- name: justPDF
+  logo: images/projects/justpdf-logo-256.png
+  role: Owner
+  timeline: "Apr 2020 - Present"
+  repo: https://github.com/justifiedsolutions/justPDF
+  summary: An Open Source library for creating PDF files.
+  tags: ["professional"]
+
+- name: SFSPro
+  logo: images/projects/sfspro-logo-256.png
+  role: Owner
+  timeline: "Jun 2010 - Present"
+  url: "https://justifiedsolutions.com/sfspro/"
+  summary: Software for generating Sworn Financial Statements for Family Law Firms in Colorado.
+  tags: ["professional"]
+
+- name: SFSPro Licensor
+  logo: images/projects/licensor-icon-1024.png
+  role: Owner
+  timeline: "Oct 2020 - Present"
+  summary: A private iOS application for generating SFSPro license files and distributing them to clients.
+  tags: ["professional"]
+
+- name: Toilet Talk
+  role: Owner
+  timeline: "Sep 2009 - Sep 2011"
+  summary: An iOS entertainment application that provided a creative interface for generating a string of curse words for the user in a selection of voices.
+  tags: ["hobby"]

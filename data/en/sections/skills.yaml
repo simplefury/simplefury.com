@@ -1,0 +1,37 @@
+# section information
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: Java Development
+  icon: "images/skills/java.png"
+  summary: "Java has been my primary development language for over 20 years. I have developed both client and server side applications."
+  url: "https://openjdk.java.net"
+
+- name: Swift Development
+  icon: "images/skills/swift.png"
+  summary: "Have developed basic iOS applications in Swift utilizing SwiftUI."
+  url: "https://swift.org"
+
+- name: SQL
+  summary: "I've developed for various databases over the last 20 years, including Sybase ASE, MySQL, PostgreSQL, and SQLite."
+
+- name: Linux
+  icon: "images/skills/linux.png"
+  summary: "I've been a Linux user and administrator for the last 20 years. Have built and run my own servers at home as well as using it for professional development and deployments. Extremely familiar with the command line and shell scripting."
+
+- name: MacOS
+  summary: "I've used MacOS as my primary operating system for the last 10 years."
+
+- name: Git
+  icon: "images/skills/git.png"
+  summary: "I have been utilizing git has my primary SCM for the last four years. Familiar with GitHub and Bitbucket. Have also utilized git-flow for projects. Prior to that, I've used CVS, SVN and ClearCase."
+  url: "https://git-scm.com/"

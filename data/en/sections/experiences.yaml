@@ -1,0 +1,84 @@
+# section information
+section:
+  name: Experience
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your experiences
+experiences:
+- company:
+    name: Comcast Cable
+    url: "https://www.xfinity.com/stream/"
+    location: Denver, CO
+    # company overview
+    overview: "A leader in IP video solutions for the cable industry. Provides IP video services to several video providers across the planet."
+  positions:
+  - designation: Software Architect
+    start: Sep 2010
+    responsibilities:
+    - Architect many of the backend systems responsible for IP video delivery for Comcast and it's partners.
+    - Expert in the IP delivery of Linear, VOD and Cloud DVR products
+
+- company:
+    name: Justified Solutions, LLC
+    url: "https://justifiedsolutions.com"
+    location: Denver, CO
+    overview: Developers of Colorado’s leading Sworn Financial Statement software since 2010.
+  positions:
+  - designation: President, Chief Architect, Lead Developer
+    start: Aug 2009
+    responsibilities:
+    - Design and develop our software products
+    - Provide support to our clients
+    - Market to potential clients
+
+- company:
+    name: Lockheed Martin
+    url: "https://www.lockheedmartin.com"
+    location: O'Fallon, IL, Titchfield, UK, Denver, CO
+    overview: "Lockheed Martin is a global security and aerospace company that employs approximately 110,000 people worldwide and is principally engaged in the research, design, development, manufacture, integration and sustainment of advanced technology systems, products and services."
+  positions:
+  - designation: Lead Software Engineer, Signals Reconnaissance Program
+    start: Sep 2009
+    end: Sep 2010
+    responsibilities:
+    - Oversee the design and development of multiple products utilized within the Air Force DCGS. Includes updating legacy products to add service layers that expose data and other important services to the enterprise. Created and lead a working group to facilitate communication across the program among all developers working on web-based solutions.
+  - designation: Staff Software Engineer
+    start: Mar 2005
+    end: Sep 2009
+    responsibilities:
+    - Led a team of software engineers (between 4-20) developing a Surveillance and Warning product for the US Military.
+  - designation: Staff Software Engineer
+    start: Jul 2004
+    end: Mar 2005
+    responsibilities:
+    - Worked in a small agile team performing internal R&D.
+  - designation: Staff Systems Administrator
+    start: Aug 2003
+    end: Jul 2004
+    responsibilities:
+    - Lead a system administration team responsible for the day to day operations of the USTRANSCOM GTN.
+  - designation: Staff Software Engineer
+    start: Oct 2002
+    end: Aug 2003
+    responsibilities:
+    - Lead engineer for several software engineering projects supporting USTRANSCOM GTN.
+  - designation: Senior Systems Administrator
+    start: Jul 2001
+    end: Oct 2002
+    responsibilities:
+    - Lead a system administration team responsible for the day to day operations of the USTRANSCOM GTN.
+  - designation: Senior Software Engineer
+    start: Jan 2001
+    end: Jul 2001
+    responsibilities:
+    - Develop software solutions for UK Census
+  - designation: Software Engineer
+    start: May 1999
+    end: Jan 2001
+    responsibilities:
+    - Develop software solutions for USTRANSCOM Global Transportation Network
