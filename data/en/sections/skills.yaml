@@ -16,6 +16,11 @@ skills:
   summary: "Java has been my primary development language for over 20 years. I have developed both client and server side applications."
   url: "https://openjdk.java.net"
 
+- name: Go Development
+  icon: "images/skills/golang.png"
+  summary: "Large scale services developement for deployment in the cloud."
+  url: "https://golang.org"
+
 - name: Swift Development
   icon: "images/skills/swift.png"
   summary: "Have developed basic iOS applications in Swift utilizing SwiftUI."

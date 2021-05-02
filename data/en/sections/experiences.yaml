@@ -11,6 +11,18 @@ section:
 # Your experiences
 experiences:
 - company:
+    name: JumpCloud
+    url: "https://jumpcloud.com/"
+    location: Louisville, CO
+    # company overview
+    overview: "JumpCloud changes the way IT administrators manage their organizations by providing a comprehensive and flexible cloud directory platform. From one pane of glass, manage user identities and resource access, secure Mac, Windows, and Linux devices, and get a full view of your environment."
+  positions:
+  - designation: Staff Software Engineer
+    start: Feb 2021
+    responsibilities:
+    - Develop a large scale, cloud based Apple Mobile Device Management (MDM) solution
+
+- company:
     name: Comcast Cable
     url: "https://www.xfinity.com/stream/"
     location: Denver, CO
@@ -19,6 +31,7 @@ experiences:
   positions:
   - designation: Software Architect
     start: Sep 2010
+    end: Dec 2020
     responsibilities:
     - Architect many of the backend systems responsible for IP video delivery for Comcast and it's partners.
     - Expert in the IP delivery of Linear, VOD and Cloud DVR products
