@@ -11,14 +11,14 @@ section:
 designation: Software Architect/Developer
 # your company information
 company:
-  name: Comcast Cable
-  url: "https://www.xfinity.com/stream/"
+  name: JumpCloud
+  url: "https://jumpcloud.com/"
 
 # your resume. this file path should be relative to you "static" directory
 resume: "files/resume.pdf"
 
 # a summary about you
-summary: "I am a passionate software architect and developer with over 20 years of working experience. I've spent the last 10 years architecting and developing soluitions to support IP Video delivery at Comcast. Additionally, during that same time I've built my own company that serves Family Law Firms in Colorado by providing Sworn Financial Statement software."
+summary: "I am a passionate software architect and developer with over 20 years of working experience. I'm currently developing a large scale, cloud based Apple MDM solution at JumpCloud. I spent the previous decade architecting and developing soluitions to support IP Video delivery at Comcast. Additionally, during that same time I've built my own company that serves Family Law Firms in Colorado by providing Sworn Financial Statement software."
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
