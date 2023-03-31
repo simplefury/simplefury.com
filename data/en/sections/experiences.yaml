@@ -17,10 +17,10 @@ experiences:
     # company overview
     overview: "JumpCloud changes the way IT administrators manage their organizations by providing a comprehensive and flexible cloud directory platform. From one pane of glass, manage user identities and resource access, secure Mac, Windows, and Linux devices, and get a full view of your environment."
   positions:
-  - designation: Staff Software Engineer
+  - designation: Principal Software Engineer
     start: Feb 2021
     responsibilities:
-    - Develop a large scale, cloud based Apple Mobile Device Management (MDM) solution
+    - Develop a large scale, cloud based Apple Mobile Device Management (MDM) solution for macOS and iOS devices.
 
 - company:
     name: Comcast Cable

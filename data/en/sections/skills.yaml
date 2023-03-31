@@ -27,16 +27,18 @@ skills:
   url: "https://swift.org"
 
 - name: SQL
+  icon: "images/skills/database.png"
   summary: "I've developed for various databases over the last 20 years, including Sybase ASE, MySQL, PostgreSQL, and SQLite."
 
 - name: Linux
   icon: "images/skills/linux.png"
   summary: "I've been a Linux user and administrator for the last 20 years. Have built and run my own servers at home as well as using it for professional development and deployments. Extremely familiar with the command line and shell scripting."
 
-- name: MacOS
-  summary: "I've used MacOS as my primary operating system for the last 10 years."
+- name: macOS
+  icon: "images/skills/apple.png"
+  summary: "I've used macOS as my primary operating system for over 20 years."
 
 - name: Git
   icon: "images/skills/git.png"
-  summary: "I have been utilizing git has my primary SCM for the last four years. Familiar with GitHub and Bitbucket. Have also utilized git-flow for projects. Prior to that, I've used CVS, SVN and ClearCase."
+  summary: "I have been utilizing git has my primary SCM since 2017. Familiar with GitHub and Bitbucket. Have also utilized git-flow for projects. Prior to that, I've used CVS, SVN and ClearCase."
   url: "https://git-scm.com/"
